@@ -1,0 +1,568 @@
+{
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1629276514827,
+    "changeTime": 1629276539011,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1629276514827,
+    "changeTime": 1629276539026,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1629368492193,
+    "changeTime": 1629368492193,
+    "contentHash": "a21e06b8ecbdf829b1646b5e9b60a1ad3d9ac744",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1629381086852,
+    "changeTime": 1629381086852,
+    "contentHash": "052fbb6ebc5a57c2904038cf88c169524fe7ad6e",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services",
+    "isDirectory": true,
+    "modifiedTime": 1629468636735,
+    "changeTime": 1629468636735,
+    "contentHash": "539f7c208a16106f2b8c758ca17cbec18a0e15e5",
+    "state": "u",
+    "isWorkspace": true,
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c",
+    "isDirectory": true,
+    "modifiedTime": 1629368492345,
+    "changeTime": 1629368492345,
+    "contentHash": "90af1088d8c7cad30c6182b4ec88927b7bcd5001",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1629368492145,
+    "changeTime": 1629368492145,
+    "contentHash": "e6877d88a357df502ac8030eda75bf084c1c4612",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c\\fields": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1629368492344,
+    "changeTime": 1629368492344,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c\\listViews": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Inbound_Tribunal_Email__c\\listViews",
+    "isDirectory": true,
+    "modifiedTime": 1629368492345,
+    "changeTime": 1629368492345,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\layouts": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1629368492347,
+    "changeTime": 1629368492347,
+    "contentHash": "8d480f0202d236f92fe1e8acdabac9f649e7bd58",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\tabs": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1629368492347,
+    "changeTime": 1629368492347,
+    "contentHash": "a7379c0a3c30cc4b3932ca8abfbb65d6c4f27f8c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles",
+    "isDirectory": true,
+    "modifiedTime": 1629280944759,
+    "changeTime": 1629280944759,
+    "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+    "size": 6523,
+    "modifiedTime": 1629368492235,
+    "changeTime": 1629368492235,
+    "contentHash": "4c9276d076a42af516cabe1cb61594e0c007d3e8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+    "size": 6185,
+    "modifiedTime": 1629368492244,
+    "changeTime": 1629368492244,
+    "contentHash": "201c53d327304a6d2404a855920bad7b7ab34fdb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+    "size": 6185,
+    "modifiedTime": 1629368492260,
+    "changeTime": 1629368492260,
+    "contentHash": "201c53d327304a6d2404a855920bad7b7ab34fdb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+    "size": 23032,
+    "modifiedTime": 1629368492304,
+    "changeTime": 1629368492304,
+    "contentHash": "25bf500aa727b28986183a69ff76585a82061bcb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1629315453240,
+    "changeTime": 1629315453240,
+    "contentHash": "3421047a740ab4dda20afee5b13127a1c1fad9b7",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e",
+    "isDirectory": true,
+    "modifiedTime": 1629315453235,
+    "changeTime": 1629315453235,
+    "contentHash": "f3bf528f1c70e9193e681128083db682ded3eb90",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows",
+    "isDirectory": true,
+    "modifiedTime": 1629315453260,
+    "changeTime": 1629315453260,
+    "contentHash": "bba5cd9911733bddb6a47939c79946419dfd3957",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices",
+    "isDirectory": true,
+    "modifiedTime": 1629368492312,
+    "changeTime": 1629368492312,
+    "contentHash": "364325f9cd7ad6fdbb777f38f4ee08e12854c13c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\Tribunal_Inbound_Email__e.object-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\Tribunal_Inbound_Email__e.object-meta.xml",
+    "size": 361,
+    "modifiedTime": 1629315453231,
+    "changeTime": 1629315453231,
+    "contentHash": "4d0af8aef08f786484dae2934e3f95720748b090",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields\\RecordId__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields\\RecordId__c.field-meta.xml",
+    "size": 459,
+    "modifiedTime": 1629315453240,
+    "changeTime": 1629315453240,
+    "contentHash": "62c5b1dd6a7edd9afb54c5d399924fd9012e9812",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields\\CSVAttachment__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Tribunal_Inbound_Email__e\\fields\\CSVAttachment__c.field-meta.xml",
+    "size": 430,
+    "modifiedTime": 1629315453236,
+    "changeTime": 1629315453236,
+    "contentHash": "bf6b7e0c4a42a4380eee3b00f0e5b599dbdbe72f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows\\Inbound_Tribunal_Email_Trigger.flow-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows\\Inbound_Tribunal_Email_Trigger.flow-meta.xml",
+    "size": 1923,
+    "modifiedTime": 1629315453261,
+    "changeTime": 1629315453261,
+    "contentHash": "8573a43c6ae67d0bd2e462cec25ff2fb9925fac3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Flow"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows\\Tribunal_Inbound_Email_Trigger.flow-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\flows\\Tribunal_Inbound_Email_Trigger.flow-meta.xml",
+    "size": 1923,
+    "modifiedTime": 1629315453255,
+    "changeTime": 1629315453255,
+    "contentHash": "71677775c86db75ba4a986cb41fd17973ac45952",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Flow"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataObject.cls": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataObject.cls",
+    "size": 1229,
+    "modifiedTime": 1629366709670,
+    "changeTime": 1629366711620,
+    "contentHash": "bdb595a12bc806ca80ed8cc532d50ed0cf414979",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataObject.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataObject.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1629365308253,
+    "changeTime": 1629365333628,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\EmailServiceHandler.cls": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\EmailServiceHandler.cls",
+    "size": 1150,
+    "modifiedTime": 1629367309390,
+    "changeTime": 1629367311086,
+    "contentHash": "7d12a0a07a274c122679a87294fca0dd7c352422",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\EmailServiceHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\EmailServiceHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1629367107543,
+    "changeTime": 1629367109578,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c",
+    "isDirectory": true,
+    "modifiedTime": 1629368492162,
+    "changeTime": 1629368492162,
+    "contentHash": "6848a8d4d0fab324a2d1a11ab6aa42f66130908a",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1629368492160,
+    "changeTime": 1629368492160,
+    "contentHash": "e00750fcb01ea89d208849fa68ee3c56df72e286",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\listViews": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\listViews",
+    "isDirectory": true,
+    "modifiedTime": 1629368492163,
+    "changeTime": 1629368492163,
+    "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US",
+    "isDirectory": true,
+    "modifiedTime": 1629368492208,
+    "changeTime": 1629368492208,
+    "contentHash": "028653de2686eca09434bf7aa47f5a0081a5301b",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations",
+    "isDirectory": true,
+    "modifiedTime": 1629368492194,
+    "changeTime": 1629368492194,
+    "contentHash": "2bd48ff1f449522304199d553394b1fd38b47144",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\Email_Service_Message__c.object-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\Email_Service_Message__c.object-meta.xml",
+    "size": 5310,
+    "modifiedTime": 1629368492148,
+    "changeTime": 1629368492148,
+    "contentHash": "57ff10c6bd83c47250790687b373e76a3741c2ce",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Body__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Body__c.field-meta.xml",
+    "size": 373,
+    "modifiedTime": 1629368492151,
+    "changeTime": 1629368492151,
+    "contentHash": "6a2009074c362bd091d5803cec466b7894ff9aff",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Recipients__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Recipients__c.field-meta.xml",
+    "size": 405,
+    "modifiedTime": 1629368492157,
+    "changeTime": 1629368492157,
+    "contentHash": "73a7d896298d870ae1aae1208d025c8822fbbf9a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Sender__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Sender__c.field-meta.xml",
+    "size": 397,
+    "modifiedTime": 1629368492159,
+    "changeTime": 1629368492159,
+    "contentHash": "285716d623e136ec9bd6452b632ffbc592b3ac2c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\tabs\\Email_Service_Message__c.tab-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\tabs\\Email_Service_Message__c.tab-meta.xml",
+    "size": 184,
+    "modifiedTime": 1629368492184,
+    "changeTime": 1629368492184,
+    "contentHash": "fa507c3f42c73152de9b887ffcc1a7364eb7aef1",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomTab"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Email_Service__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Email_Service__c.field-meta.xml",
+    "size": 625,
+    "modifiedTime": 1629368492154,
+    "changeTime": 1629368492154,
+    "contentHash": "c4c95df647ad395605253babe84cb762144727e9",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\listViews\\All.listView-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\listViews\\All.listView-meta.xml",
+    "size": 375,
+    "modifiedTime": 1629368492163,
+    "changeTime": 1629368492163,
+    "contentHash": "3c5d66fa2f57b88d3a738f6ff64de606126eb516",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ListView"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\layouts\\Email_Service_Message__c-Inbound Tribunal Email Layout.layout-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\layouts\\Email_Service_Message__c-Inbound Tribunal Email Layout.layout-meta.xml",
+    "size": 3438,
+    "modifiedTime": 1629368492181,
+    "changeTime": 1629368492181,
+    "contentHash": "f63e37d97ea07a039ebc02fbd1f437d02701812f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Subject__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objects\\Email_Service_Message__c\\fields\\Subject__c.field-meta.xml",
+    "size": 399,
+    "modifiedTime": 1629368492160,
+    "changeTime": 1629368492160,
+    "contentHash": "f6b34549de93843005fa1c47aee80cbaedf68a20",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Email_Service_Message__c-en_US.objectTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Email_Service_Message__c-en_US.objectTranslation-meta.xml",
+    "size": 397,
+    "modifiedTime": 1629368492194,
+    "changeTime": 1629368492194,
+    "contentHash": "0e72f797290d7b963d107a5c06fa68ee4903fbee",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObjectTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Body__c.fieldTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Body__c.fieldTranslation-meta.xml",
+    "size": 196,
+    "modifiedTime": 1629368492197,
+    "changeTime": 1629368492197,
+    "contentHash": "2547a00d6c06976d157ba5bb697e31bed60cd6cb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Email_Service__c.fieldTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Email_Service__c.fieldTranslation-meta.xml",
+    "size": 214,
+    "modifiedTime": 1629368492200,
+    "changeTime": 1629368492200,
+    "contentHash": "4118dd7465242812084c5ba92909c2e80de634c7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Sender__c.fieldTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Sender__c.fieldTranslation-meta.xml",
+    "size": 200,
+    "modifiedTime": 1629368492206,
+    "changeTime": 1629368492206,
+    "contentHash": "0cf3c91ee3a454fe09c05ad6ca086bd368e92c58",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Recipients__c.fieldTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Recipients__c.fieldTranslation-meta.xml",
+    "size": 208,
+    "modifiedTime": 1629368492203,
+    "changeTime": 1629368492203,
+    "contentHash": "49770d2a9d00290076589147bf8dd41453bd42ea",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices\\Data Import - Gecko.xml-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices\\Data Import - Gecko.xml-meta.xml",
+    "size": 1240,
+    "modifiedTime": 1629368492308,
+    "changeTime": 1629368492308,
+    "contentHash": "316f64f05ebde0bfb6e55be1e6a96ad231304e51",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "EmailServicesFunction"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Subject__c.fieldTranslation-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\objectTranslations\\Email_Service_Message__c-en_US\\Subject__c.fieldTranslation-meta.xml",
+    "size": 202,
+    "modifiedTime": 1629368492208,
+    "changeTime": 1629368492208,
+    "contentHash": "f7c00264489a7c141bf761420ab51a52fbab637a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomFieldTranslation"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices\\Data Import - CourtServe.xml-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\emailservices\\Data Import - CourtServe.xml-meta.xml",
+    "size": 1254,
+    "modifiedTime": 1629368492312,
+    "changeTime": 1629368492312,
+    "contentHash": "d398f6d6aa0d35175944f7d9fac4b8bacb353a83",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "EmailServicesFunction"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataHandler.cls": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataHandler.cls",
+    "size": 1598,
+    "modifiedTime": 1629377123316,
+    "changeTime": 1629377124475,
+    "contentHash": "29218b373b0db8b257bf15eca49ccf8567fce55b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\CSVDataHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1629369352261,
+    "changeTime": 1629376819591,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\ConvertCSVToCollection.cls": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\ConvertCSVToCollection.cls",
+    "size": 4497,
+    "modifiedTime": 1630506593490,
+    "changeTime": 1630506594654,
+    "contentHash": "7593fc3ff8dec1262f91c38643a518f9ccddaac0",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass",
+    "deferContentHash": true
+  },
+  "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\ConvertCSVToCollection.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Mark.Ledden\\OneDrive - Peninsula Group Online\\Desktop\\Salesforce Projects\\Email Services\\force-app\\main\\default\\classes\\ConvertCSVToCollection.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1629381086855,
+    "changeTime": 1629381139744,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  }
+}

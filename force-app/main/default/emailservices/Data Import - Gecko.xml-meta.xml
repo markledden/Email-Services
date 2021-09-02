@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apexClass>EmailServiceHandler</apexClass>
+    <attachmentOption>All</attachmentOption>
+    <authenticationFailureAction>Bounce</authenticationFailureAction>
+    <authorizationFailureAction>Bounce</authorizationFailureAction>
+    <authorizedSenders>mark.ledden@peninsula-uk.com</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>mark.ledden@peninsula-uk.com</authorizedSenders>
+        <developerName>gecko</developerName>
+        <isActive>true</isActive>
+        <localPart>gecko</localPart>
+        <runAsUser>test-krguzgc1trcz@example.com</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>mark.ledden@peninsula-uk.com</errorRoutingAddress>
+    <functionInactiveAction>Bounce</functionInactiveAction>
+    <functionName>Data Import - Gecko</functionName>
+    <isActive>true</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>true</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>false</isTlsRequired>
+    <overLimitAction>Requeue</overLimitAction>
+</EmailServicesFunction>
