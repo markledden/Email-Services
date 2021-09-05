@@ -1,46 +1,76 @@
 public with sharing class ConvertCSVToCollection {
 
-    // class fileColumn {
-    //     @AuraEnabled
-    //     Public String name {get; set;}
-    //     @AuraEnabled
-    //     Public String value {get; set;}
-    //     public fileColumn(String name, String value) {
-    //         this.name=name;
-    //         this.value=value;
-    //     }
-    // }
+    @invocableMethod(label='CSV Attachment to Record Collection' description='Take a CSV file attachment and parse the rows into an apex defined object to be processed in a Flow' category='Data Manipulation')
+    public static List<ParseResult> createCSVCollection(List<ParseRequest> request){
 
-    class fileRow {
-        @AuraEnabled
-        public Map<String, String> columns {get; set;}
-        public fileRow(List<String> headers, String row) {
-            columns=new Map<String, String>();
-            List<String> values=row.split(',');
-            for (Integer counter=0; counter<headers.size(); counter++) columns.put(headers[counter], values[counter]);
+        Attachment csvFile = request.get(0).csvFile;
+        List<String> csvRows = new List<String>();
+        List<CSVDataObject> csvRecords = new List<CSVDataObject>();
+
+
+        // logic here.... 
+        csvRows = (csvFile.Body==null?'':csvFile.Body.toString()).split('\n'); //String collection where csv body is converted to string and split into rows            
+        csvRows.remove(0); // Remove first row (column headers) 
+
+        for (String row : csvRows) {
+
+            String[] csvRecordString = row.split(',');
+            
+            CSVDataObject csvRecord = new CSVDataObject();
+            
+            csvRecord.column01 	= csvRecordString[0];
+            csvRecord.column02 	= csvRecordString[1];
+            csvRecord.column03	= csvRecordString[2];
+            csvRecord.column04	= csvRecordString[3];
+            csvRecord.column05	= csvRecordString[4];
+            csvRecord.column06 	= csvRecordString[5];
+            csvRecord.column07	= csvRecordString[6];
+            csvRecord.column08	= csvRecordString[7];
+            csvRecord.column09	= csvRecordString[8]; 
+            
+            csvRecords.add(csvRecord);
+                
         }
+
+
+        ParseResult result = new ParseResult();
+        result.csvRecords = csvRecords;
+        List<ParseResult> resultList = new List<ParseResult>();
+        resultList.add(result);
+        return resultList;
+
     }
 
-    public String getColumnFrom(Map<String, String> row, String header) {
-        return row.get(header);
+    // Flow Input
+    public class ParseRequest { 
+        @invocableVariable(label='CSV Attachment')
+        public Attachment csvFile;
     }
 
-    @invocableMethod(label='Convert Comma-separated-values to String Collection')
-    public static List<Response> execute (List<Request> requests) {
+    // Flow Output
+    public class ParseResult {
+        @invocableVariable (label='CSV Record Collection')
+        public List<CSVDataObject> csvRecords;
+    }
+
+
+}
+
+
+/*
+
+
 
         List<Response> responseList = new List<Response>();
         for (Request curRequest : requests) {
 
             Response response = new Response();
-            response.csvRecordList=new List<fileRow>();
+            response.csvRecords=new List<CSVDataObject>();
             
-        
-                        // Flow Action Logic Start
 
-                            //Attachment csvFile = [SELECT Id,Name,Body FROM Attachment WHERE Id=:curRequest.attachmentId]; 
                             
-                            Attachment      csvFile = new Attachment();
-                            List<String>    csvRows = new List<String>();
+
+
 
                             Blob csvBlob;
                             csvBlob = csvFile.Body;
@@ -51,29 +81,29 @@ public with sharing class ConvertCSVToCollection {
                             csvRows.remove(0); // Remove first row (column headers) 
                           
                 
-                            // List<CSVDataObject> csvRecordList = new List<CSVDataObject>();
+                            List<CSVDataObject> csvRecords = new List<CSVDataObject>();
 
                             //Loop though each row from the csv 
                             
                             for (String row : csvRows) {
-                                response.csvRecordList.add(new fileRow(response.csvHeaders, row));
+                                response.csvRecords.add(new CSVDataObject(response.csvHeaders, row));
                                 //Split the columns and add to a collection 
                                 //check the output, further processing might be needed before splitting the columns 
-                                // String[] csvRecordString = row.split(',');
+                                String[] csvRecordString = row.split(',');
                                 
-                                // // CSVDataObject csvRecord = new CSVDataObject();
+                                CSVDataObject csvRecord = new CSVDataObject();
                                 
-                                //     csvRecord.column01 	= csvRecordString[0]; // Column #1 from the csv file
-                                //     csvRecord.column02 	= csvRecordString[1]; // Column #2 from the csv file 
-                                //     csvRecord.column03	= csvRecordString[2]; // etc etc 
-                                //     csvRecord.column04	= csvRecordString[3];
-                                //     csvRecord.column05	= csvRecordString[4];
-                                //     csvRecord.column06 	= csvRecordString[5];
-                                //     csvRecord.column07	= csvRecordString[6];
-                                //     csvRecord.column08	= csvRecordString[7];
-                                //     csvRecord.column09	= csvRecordString[8];
+                                    csvRecord.column01 	= csvRecordString[0]; // Column #1 from the csv file
+                                    csvRecord.column02 	= csvRecordString[1]; // Column #2 from the csv file 
+                                    csvRecord.column03	= csvRecordString[2]; // etc etc 
+                                    csvRecord.column04	= csvRecordString[3];
+                                    csvRecord.column05	= csvRecordString[4];
+                                    csvRecord.column06 	= csvRecordString[5];
+                                    csvRecord.column07	= csvRecordString[6];
+                                    csvRecord.column08	= csvRecordString[7];
+                                    csvRecord.column09	= csvRecordString[8];
                                 
-                                // csvRecordList.add(csvRecord);
+                                csvRecords.add(csvRecord);
                                     
                             }
 
@@ -88,20 +118,8 @@ public with sharing class ConvertCSVToCollection {
     }
 
     
-    // Flow Action input variable(s)
-    public class Request { 
-        @invocableVariable(label='CSV Attachment')
-        //public String attachmentId; 
-        public Attachment csvFile;
-    }
 
-    // Flow Action output variable(s)
-    public class Response {
-        @invocableVariable (label='CSV Record Collection')
-        public List<fileRow> csvRecordList; 
-        @invocableVariable (label='CSV Record Headers')
-        public List<String> csvHeaders; 
-
-
-    }
 }
+
+
+*/

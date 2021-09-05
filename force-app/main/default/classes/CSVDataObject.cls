@@ -1,6 +1,5 @@
 public with sharing class CSVDataObject {
 
-
         @AuraEnabled 
         public String column01;
     
@@ -61,6 +60,65 @@ public with sharing class CSVDataObject {
         @AuraEnabled 
         public String column20;
 
+        @AuraEnabled 
+        public String column21;
+    
+        @AuraEnabled 
+        public String column22;
+    
+        @AuraEnabled 
+        public String column23;
+    
+        @AuraEnabled 
+        public String column24;
+    
+        @AuraEnabled 
+        public String column25;
+    
+        @AuraEnabled 
+        public String column26;
+    
+        @AuraEnabled 
+        public String column27;
+    
+        @AuraEnabled 
+        public String column28;
+    
+        @AuraEnabled 
+        public String column29;
+    
+        @AuraEnabled 
+        public String column30;
+    
+        @AuraEnabled 
+        public String column31;
+    
+        @AuraEnabled 
+        public String column32;
+    
+        @AuraEnabled 
+        public String column33;
+
+        @AuraEnabled 
+        public String column34;
+    
+        @AuraEnabled 
+        public String column35;
+    
+        @AuraEnabled 
+        public String column36;
+    
+        @AuraEnabled 
+        public String column37;
+    
+        @AuraEnabled 
+        public String column38;
+    
+        @AuraEnabled 
+        public String column39;
+    
+        @AuraEnabled 
+        public String column40;
     
 }
 

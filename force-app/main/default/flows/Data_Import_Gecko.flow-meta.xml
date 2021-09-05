@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>52.0</apiVersion>
+    <interviewLabel>Data Import - Gecko {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Data Import - Gecko</label>
+    <loops>
+        <name>Process_CSV_Records</name>
+        <label>Process CSV Records</label>
+        <locationX>176</locationX>
+        <locationY>158</locationY>
+        <collectionReference>csvRecordList</collectionReference>
+        <iterationOrder>Asc</iterationOrder>
+    </loops>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Process_CSV_Records</targetReference>
+        </connector>
+    </start>
+    <status>Active</status>
+    <variables>
+        <name>csvRecordList</name>
+        <apexClass>CSVDataObject</apexClass>
+        <dataType>Apex</dataType>
+        <isCollection>true</isCollection>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>
